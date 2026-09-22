@@ -1,2 +1,2 @@
 # python-test1
-The file is about the python
+The file is about the python variable, data type,...
